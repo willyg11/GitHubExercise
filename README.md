@@ -1,0 +1,2 @@
+# GitHubExercise
+Assignment for class
